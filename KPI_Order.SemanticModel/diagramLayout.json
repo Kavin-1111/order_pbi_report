@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 72
+          },
+          "nodeIndex": "Region",
+          "nodeLineageTag": "430610f9-a514-4c17-97cb-e97d2d9982c5",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 284,
+            "y": 0
+          },
+          "nodeIndex": "Sales",
+          "nodeLineageTag": "5d52024f-edd0-47d8-977a-d72a21d8a15f",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 568,
+            "y": 72
+          },
+          "nodeIndex": "SalesRep",
+          "nodeLineageTag": "f9715c3f-f176-4763-b752-2499ed8a2563",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 852,
+            "y": 60
+          },
+          "nodeIndex": "Customer",
+          "nodeLineageTag": "25fd366b-1d9f-414d-a3d9-f126d014adfa",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1136,
+            "y": 48
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "dba69bb1-ab01-42ce-9fe0-5b77ac4309a1",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
